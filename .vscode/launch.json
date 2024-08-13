@@ -1,0 +1,90 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Operadores",
+            "request": "launch",
+            "mainClass": "Operadores",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresBoleanos",
+            "request": "launch",
+            "mainClass": "OperadoresBoleanos",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresIncremento",
+            "request": "launch",
+            "mainClass": "OperadoresIncremento",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresLogicos",
+            "request": "launch",
+            "mainClass": "OperadoresLogicos",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresNegativos",
+            "request": "launch",
+            "mainClass": "OperadoresNegativos",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresRelacionais",
+            "request": "launch",
+            "mainClass": "OperadoresRelacionais",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
+            "name": "OperadoresTernarios",
+            "request": "launch",
+            "mainClass": "OperadoresTernarios",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
+            "name": "TiposVariaveis",
+            "request": "launch",
+            "mainClass": "TiposVariaveis",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "argumentos.AboutMe",
+            "args": [
+                "João",
+                "Paulo",
+                 "40",
+                  "1.80"
+                ],
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "metodos.Usuario",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        }
+    ]
+}
