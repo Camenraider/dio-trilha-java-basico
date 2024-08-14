@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
@@ -74,9 +81,9 @@
             "args": [
                 "João",
                 "Paulo",
-                 "40",
-                  "1.80"
-                ],
+                "40",
+                "1.80"
+            ],
             "projectName": "dio-trilha-java-basico_9a98106"
         },
         {
