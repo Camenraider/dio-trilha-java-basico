@@ -1,4 +1,4 @@
-package argumentos;
+package estruturas_exepcionais;
 
 import java.util.InputMismatchException;
 import java.util.Locale;

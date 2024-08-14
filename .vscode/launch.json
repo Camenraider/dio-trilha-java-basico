@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "estruturas_exepcionais.FormatadorCepExemplo",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "estruturas_exepcionais.ExemploExcecao",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
+            "name": "AboutMeScan",
+            "request": "launch",
+            "mainClass": "estruturas_exepcionais.AboutMeScan",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
+            "name": "AboutMeScan",
+            "request": "launch",
+            "mainClass": "argumentos.AboutMeScan",
+            "projectName": "dio-trilha-java-basico_9a98106"
+        },
+        {
+            "type": "java",
             "name": "ExemploDoWhile",
             "request": "launch",
             "mainClass": "ExemploDoWhile",
