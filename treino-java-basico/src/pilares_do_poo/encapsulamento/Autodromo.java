@@ -1,4 +1,4 @@
-package pilares_do_poo;
+package pilares_do_poo.encapsulamento;
 
 public class Autodromo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package pilares_do_poo;
+package pilares_do_poo.encapsulamento;
 
 public abstract class Veiculo {
     private String chassi;

@@ -1,4 +1,4 @@
-package pilares_do_poo;
+package pilares_do_poo.encapsulamento;
 
 public class Moto extends Veiculo{
 

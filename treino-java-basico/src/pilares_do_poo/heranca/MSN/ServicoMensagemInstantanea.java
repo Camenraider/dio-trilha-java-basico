@@ -1,4 +1,5 @@
-package MSN;
+package pilares_do_poo.heranca.MSN;
+
 
 public class ServicoMensagemInstantanea {
     // primeiro confirmar se esta conectado a internet
@@ -17,5 +18,4 @@ public class ServicoMensagemInstantanea {
     private void salvarHistoricoMensagem(){
         System.out.println("Salvando histórico da mensagem");
     }
-
 }
